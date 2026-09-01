@@ -47,4 +47,4 @@ This repo is where Class 27A submits Python assignments.
 - Do not push to another student's branch.
 ```
 
-Replace `YOUR-INSTRUCTOR-USERNAME` with your actual GitHub username. Once that's committed, the repo is fully switched over — students clone, branch, push, and PR, all within your one repo, with `main` still protected on your end.
+
